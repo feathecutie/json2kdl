@@ -1,5 +1,3 @@
-# TODO: Fixup README for new format
-
 # json2kdl
 
 json2kdl is a program that generates KDL files from JSON
